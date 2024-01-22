@@ -1,1 +1,2 @@
 # sample
+learning git sample . 
